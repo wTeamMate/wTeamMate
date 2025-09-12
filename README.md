@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤙🤙🤙
+🤙🤙🤙<br />
 Young data science student. Just messing around with some IT & data stuff. A few tiny projects live here.
 
 # 💻 Tech Stack:
